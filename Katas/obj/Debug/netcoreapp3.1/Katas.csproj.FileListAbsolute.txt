@@ -1,0 +1,15 @@
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Katas.exe
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Katas.deps.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Katas.runtimeconfig.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Katas.runtimeconfig.dev.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Katas.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Katas.pdb
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.AssemblyInfoInputs.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.AssemblyInfo.cs
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.csproj.CoreCompileInputs.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.pdb
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.genruntimeconfig.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.csproj.CopyComplete
+C:\Users\andres.duarte\source\repos\ConsoleApp1\Katas\obj\Debug\netcoreapp3.1\Katas.csprojAssemblyReference.cache

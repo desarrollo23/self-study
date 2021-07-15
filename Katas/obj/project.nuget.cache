@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9JVk8um0CZYo+nfqNv9hny7CV0YVjvGHxEG2ZbG2Nmlqndk4Ep7Sl40T6IdSh/nZ7B0oRb2l8TVBaWZF1VPig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andres.duarte\\source\\repos\\ConsoleApp1\\Katas\\Katas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andres.duarte\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

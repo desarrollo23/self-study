@@ -1,0 +1,13 @@
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.exe
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.deps.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.runtimeconfig.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.runtimeconfig.dev.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.pdb
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.csprojAssemblyReference.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.AssemblyInfoInputs.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.AssemblyInfo.cs
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.pdb
+C:\Users\andres.duarte\source\repos\ConsoleApp1\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.genruntimeconfig.cache

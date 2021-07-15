@@ -1,0 +1,13 @@
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\bin\Debug\netcoreapp3.1\BasicCollections.exe
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\bin\Debug\netcoreapp3.1\BasicCollections.deps.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\bin\Debug\netcoreapp3.1\BasicCollections.runtimeconfig.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\bin\Debug\netcoreapp3.1\BasicCollections.runtimeconfig.dev.json
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\bin\Debug\netcoreapp3.1\BasicCollections.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\bin\Debug\netcoreapp3.1\BasicCollections.pdb
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.AssemblyInfoInputs.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.AssemblyInfo.cs
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.csproj.CoreCompileInputs.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.dll
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.pdb
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.genruntimeconfig.cache
+C:\Users\andres.duarte\source\repos\ConsoleApp1\BasicCollections\obj\Debug\netcoreapp3.1\BasicCollections.csprojAssemblyReference.cache
